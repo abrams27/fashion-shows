@@ -3,6 +3,7 @@
 _I have always missed a place where you can find all the shows of a particular fashion brand along with analysis and reviews.... Now there is such place - **this repository**._
 
 ## Available brands
+- [Martin Margiela](martin-margiela)
 - [Raf Simons](raf-simons)
 
 ## Contibuting
